@@ -1,0 +1,15 @@
+form {
+    margin: 50px;
+    padding: 20px;
+}
+input.form-control {
+    padding: 10px;
+    margin-bottom: 30px;
+}
+button.btn.btn-primary {
+    margin-right: 100px;
+}
+i{
+    position: relative;
+    right: 20px;
+}
